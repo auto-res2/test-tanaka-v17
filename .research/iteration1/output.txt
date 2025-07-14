@@ -1,0 +1,6 @@
+
+===== Starting Test Run =====
+Running on device: cuda
+
+Starting Experiment 1: Ablation Study on the Isometric Regularizer
+Training Full Model with isometric regularizer (λ_iso = 1.0)
